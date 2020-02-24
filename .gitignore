@@ -1,13 +1,6 @@
 *.pyc
-__pycache__
 
 ckpt/
 vis/
 log/
 pretrained/
-.ipynb_checkpoints/
-data/
-data/ade20k-resnet50dilated-ppm_deepsup/
-ADE_val_00000001.png
-ADE_val_00001519.jpg
-ade20k-resnet50dilated-ppm_deepsup/
